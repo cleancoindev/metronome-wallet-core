@@ -27,7 +27,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "axios": "0.21.1",
+    "axios": "0.26.1",
     "axios-cookiejar-support": "^1.0.1",
     "debug": "^4.1.1",
     "ethereumjs-wallet": "^1.0.1",
