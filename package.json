@@ -32,7 +32,7 @@
     "debug": "^4.1.1",
     "ethereumjs-wallet": "^1.0.1",
     "lodash": "^4.17.15",
-    "merkletreejs": "0.0.25",
+    "merkletreejs": "0.2.31",
     "metronome-contracts": "^2.5.0",
     "metronome-sdk-status": "^1.2.1",
     "p-all": "^3.0.0",
